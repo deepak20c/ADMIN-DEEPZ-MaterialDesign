@@ -1,4 +1,4 @@
-AdminBSB - Material Design
+AdminDeepz - Material Design
 =======================
 [![npm version](https://img.shields.io/npm/v/adminbsb-materialdesign.svg)](https://www.npmjs.com/package/adminbsb-materialdesign)
 ![Bower version](https://img.shields.io/bower/v/adminbsb-materialdesign.svg)
