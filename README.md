@@ -9,7 +9,7 @@ It's really easy to customize and usage. You can use for from 320px to large res
 
 Demo
 ----------------
-You can check the website preview with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/)**  
+You can check the website preview with **[this link](https://github.com/deepak20c/ADMIN-DEEPZ-MaterialDesign/)**  
 
 ![AdminBSB - Free Admin Template With Material Design](https://raw.githubusercontent.com/gurayyarar/AdminBSBMaterialDesign/master/images/screenshot.png)
 
@@ -36,7 +36,7 @@ bower install adminbsb-materialdesign
 
 Documentation
 ----------
-Visit the **[documentation](https://gurayyarar.github.io/AdminBSBMaterialDesign/documentation/)**
+Visit the **[documentation](https://github.com/deepak20c/ADMIN-DEEPZ-MaterialDesign/documentation/)**
 
 Browser Support
 ----------
@@ -49,7 +49,7 @@ Browser Support
 
 Change Logs
 ----------
-You can display all release notes with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/pages/changelogs.html)**
+You can display all release notes with **[this link](https://github.com/deepak20c/ADMIN-DEEPZ-MaterialDesign/pages/changelogs.html)**
 
 
 FAQ
